@@ -1,2 +1,2 @@
 # PublicWebsite
-A public deployed web
+A public deployed website
